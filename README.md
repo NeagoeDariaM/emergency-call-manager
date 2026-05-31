@@ -1,7 +1,5 @@
 NEAGOE Daria-Maria
 
-# TEMA 1 SDA
-
 Pentru implementarea acestei teme am folosit structurile date in enunt si anume:
 
     - *unit* stocheaza id-ul echipajului de interventie, tipul si disponibilitatea acestuia
