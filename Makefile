@@ -1,4 +1,3 @@
-# NEAGOE Daria-Maria - 314CA
 CC=gcc
 CFLAGS=-Wall -Wextra -std=c99
 
