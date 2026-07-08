@@ -1,6 +1,6 @@
-NEAGOE Daria-Maria
+# emergency-call-manager
 
-Pentru implementarea acestei teme am folosit structurile date in enunt si anume:
+Pentru implementare am folosit urmatoarele structuri de date:
 
     - *unit* stocheaza id-ul echipajului de interventie, tipul si disponibilitatea acestuia
     - *incident* stocheaza id-ul incidentului, tipul de prioritate, o descriere si statusul acestuia
@@ -66,5 +66,3 @@ Cat si structuri pentru crearea structurilor de date necesare: lista dublu inlan
 
  In main, se deschid fisierele de intrare si iesire, se creeaza listele necesare, se adauga santinelele, se creeaza cozile si stiva, apoi se apeleaza functiile pentru rezolvarea problemelor.
  La final se da free pentru intregul program si se inchid fisierele.
-
- Puctajul obtinut la teste este maxim.
